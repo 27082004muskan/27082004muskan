@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Learner;Data+Analytics+Explorer;Aspiring+Software+Engineer;Open+to+Internships" alt="Typing SVG" />
+</p>
+
+<h3 align="center">Bridging Web Development & Data Storytelling 💻📊</h3>
 
 <h1 align="center">Hi 👋, I'm Muskan Gupta</h1>
-<h3 align="center">Aspiring Software Developer | Data Analyst | Full-Stack Learner</h3>
+<h3 align="center"><h3 align="center">Future Software Engineer | Data Storyteller | Full Stack Developer in Progress 🚀</h3>
 
----
+
 
 ### 👩‍💻 About Me
 
