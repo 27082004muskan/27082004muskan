@@ -111,3 +111,10 @@ Here are some ideas to get you started:
 ### ✨ Signature Quote
 
 > “Be curious. Keep building. Stay grounded.” — *Muskan Gupta 💙*
+
+### 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/27082004muskan/27082004muskan/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
