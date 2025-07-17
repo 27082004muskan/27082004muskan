@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **27082004muskan/27082004muskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Learner;Data+Analytics+Explorer;Aspiring+Software+Engineer;Open+to+Internships" alt="Typing SVG" />
+<b>  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Learner;Data+Analytics+Explorer;Aspiring+Software+Engineer;Open+to+Internships" alt="Typing SVG" /> </b>
 </p>
 
-<h3 align="center">Bridging Web Development & Data Storytelling 💻📊</h3>
 
 <h1 align="center">Hi 👋, I'm Muskan Gupta</h1>
 <h3 align="center"><h3 align="center">Future Software Engineer | Data Storyteller | Full Stack Developer in Progress 🚀</h3>
@@ -37,7 +36,6 @@ Here are some ideas to get you started:
 - 📫 **gmuskan.2708@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muskan-gupta-639065250/) | [GitHub](https://github.com/27082004muskan)
 
----
 
 ### 🚀 Tech Stack
 
@@ -56,7 +54,7 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-#### 📊 Data Analytics & BI
+#### 📊 Data Analytics, BI & ML
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -65,6 +63,7 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-202020?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-005571?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 
 ### 📊 GitHub Stats
@@ -73,14 +72,25 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=27082004muskan&layout=compact&theme=react)
 
 
-### 📈 GitHub Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=27082004muskan&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true)
 
 
-### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=27082004muskan&theme=react&border_radius=5)](https://git.io/streak-stats)
+
+### 🔥 GitHub Activity & Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=27082004muskan&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak"/>
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=27082004muskan&theme=react-dark&bg_color=1a1b27&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=27082004muskan&theme=gruvbox&no-frame=true&row=1&column=7" />
+</p>
+
+
 
 
 ### 🏆 Highlights & Certifications
@@ -90,6 +100,12 @@ Here are some ideas to get you started:
 - 📊 **Data Visualization Expert** – Tata Forage Program
 - 🤖 Microsoft AI Music Fest ’24 – Attendee
 - 🌱 Internshala Student Partner – 2022
+
+  
+### 🧠 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 
 ### ✨ Signature Quote
