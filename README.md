@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - 💬 Open to full stack, analytics & research internships
 - 📫 **gmuskan.2708@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muskan-gupta-639065250/) | [GitHub](https://github.com/27082004muskan)
+- Check my website ([https://my-website-muskangupta.vercel.app/](https://my-website-muskangupta.vercel.app/))
 
 
 ### 🚀 Tech Stack
