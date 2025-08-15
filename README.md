@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<b>  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Learner;Data+Analytics+Explorer;Aspiring+Software+Engineer;Open+to+Internships" alt="Typing SVG" /> </b>
+<b>  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Learner;Data+Analytics+Explorer;Aspiring+Software+Engineer;Open+for+Internships" alt="Typing SVG" /> </b>
 </p>
 
 
