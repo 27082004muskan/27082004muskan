@@ -84,7 +84,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=27082004muskan&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak"/>
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=27082004muskan&theme=react-dark&bg_color=1a1b27&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=true" alt="GitHub Contribution Graph" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=27082004muskan&theme=react-dark&bg_color=1a1b27&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=true&timestamp=1" />
+
 </p>
 
 ### 🏆 GitHub Trophies
