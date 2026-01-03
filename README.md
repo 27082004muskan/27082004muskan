@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 👩‍💻 About Me
 
 - 🎓 B.Tech CSE student at **KIET Group of Institutions (2022–2026)**
-- 💼 Currently Tech Intern @ **The Fin Lit Project**
+- 💼 Ex-Tech Intern @ **The Fin Lit Project**
 - 🧠 Solved 350+ DSA problems on LeetCode & 100+ on GFG
 - 🌐 Love building intelligent, user-friendly, and scalable tech solutions
 - 📊 Passionate about data-driven storytelling and visual dashboards
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 
 ### 🏆 Highlights & Certifications
-
+- 🥇 **Qyrus Qapi track Prize Winner** - HackCbs - India's Largest Run Hackathon
 - 🥇 **Top 30 Finalist** – HackFinance Hackathon @ IIITD
 - ✅ **Full Stack Developer** – LinkedIn Learning
 - 📊 **Data Visualization Expert** – Tata Forage Program
